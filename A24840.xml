@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the behaviour of Henry Weller, John Ralph, Clement Snell, Joseph Rumney, Matthew Smith, Ralph Cook, in Newgate, since their condemnation with seasonable advice to all condemned prisoners : published by their earnest request and desire.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24840</idno>
+            <idno type="STC">Wing A246</idno>
+            <idno type="STC">ESTC R11812</idno>
+            <idno type="EEBO-CITATION">12930579</idno>
+            <idno type="OCLC">ocm 12930579</idno>
+            <idno type="VID">95651</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24840)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95651)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the behaviour of Henry Weller, John Ralph, Clement Snell, Joseph Rumney, Matthew Smith, Ralph Cook, in Newgate, since their condemnation with seasonable advice to all condemned prisoners : published by their earnest request and desire.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Weller, Henry.</term>
+               <term>Last words.</term>
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:95651:1"/>
+            <pb n="1" facs="tcp:95651:1" rendition="simple:additions"/>
+            <head>
+               <hi>AN ACCOUNT</hi> Of the Behaviour of
+<list>
+                  <item>HENRY WELLER,</item>
+                  <item>JOHN RALPH,</item>
+                  <item>CLEMENT SNELL,</item>
+                  <item>JOSEPH RUMNEY,</item>
+                  <item>MATTHEW SMITH,</item>
+                  <item>RALPH COOK,</item>
+               </list> 
+               <hi>in</hi> Newgate. <hi>Since their</hi> CONDEMNATION.</head>
+            <head type="sub">With Seaſonable Advice to all Condemned Priſoners; Publiſhed by their earneſt Requeſt and Deſire.</head>
+            <p>AS God himſelf is a Compound of all that is good: And that it is moſt evident that he is filled up with goodneſs by his extent of Mercy and favour to poor Creatures that have ill deſerved it at his Hands, the nature of whoſe Crimes being of the deepeſt Dye, and at<g ref="char:EOLhyphen"/>tended with the greateſt aggravations. Witneſs <hi>Manaſſeh, Mary Mag<g ref="char:EOLhyphen"/>dalen,</hi> the Thief upon the Croſs, and many others: The conſideration whereof, ſhould work tenderneſs and pity in all our Hearts towards thoſe poor Creatures; that notwithſtanding the repeated inſtances of Divine Juſtice and diſpleaſure from time to time, yet being hardened in ſin take no warning, till they deſervedly bring themſelves to a ſhame<g ref="char:EOLhyphen"/>ful and ignominious Death; The following advice and directions to poor Condemned Priſoners was written in Love and Pity to their Souls, and by the earneſt requeſt of theſe Six Perſons abovementioned, to whom we hope God hath in much mercy given to ſee the horrible nature of thoſe ſins for which they juſtly ſuffer: very much bewailing the nature of their Crimes, and the aggravating circumſtances that did attend them; <hi>Henry Weller</hi> in particular greatly Condemning himſelf, and ſaying,
+<hi>that his ſins were greater than the rest, becauſe Committed againſt great Light and Knowledge.</hi>
+            </p>
+            <p>They were the more earneſt to have this publiſhed; becauſe as they ſaid, <hi>It might not only by the Bleſſing of God do good to their own Souls, but that it might be ſeaſonable to all others hereafter, whoſe Crimes makes them obnoxious to the ſame fate.</hi>
+            </p>
+            <p n="1">1. I beſeech you conſider the time paſt, and the manner of your life. How many Days, Weeks, Months, and Years are paſſed over your Heads, in which you have had no regard to the glory of God, nor the ſalvation of your pretious ſouls, but have taken pleaſure in unrighteouſ<g ref="char:EOLhyphen"/>neſs, to the diſpleaſing of a glorious God, and the deſtroying of your own Souls.</p>
+            <pb n="2" facs="tcp:95651:2" rendition="simple:additions"/>
+            <p n="2">2. Conſider and call to mind the ſeveral ſorts of wickneſs you have been guilty of, and have repeated many times over in the practice of them, <hi>viz. Lying, Swearing, Drunkenneſs, Uncleanneſs, Breach of the Lords Day, and rejecting the means of Grace,</hi> beſides thoſe abominable Crimes you are Condemned for by the Laws of the Land.</p>
+            <p n="3">3. Conſider that all of theſe ſins or any of them, are damning to thoſe that are guilty of them, and therefore though ſome of you may plead that you are not actually guilty of all kind of wickedneſs, yet your State is bad enough, for it is written, <hi>be that breaketh the Law of God in one point, is guilty of all.</hi>
+            </p>
+            <p n="4">4. Conſider that it is much more your work, and will be more pro<g ref="char:EOLhyphen"/>fitable for your Soul, to lay to Heart what you are guilty of, than to pleaſe your ſelves with what you are not actually guilty of, for as much as the forbearance of ſome ſins is not enough to ſave you, but to be charged of, as guilty of, in any ſin is enough to damn you.</p>
+            <p n="5">5. Conſider that your wicked Life and Converſation is contrary to, and hath been in oppoſition of the good word of God, the inſtructions of Relations and Friends, the teachings of your own Conſcience, and good Laws of the Land, beſides the many warnings you have had from many that have gone before you, who have been brought to ſorrow and ſhame by their wickedneſs, in ending their Days to the great Grief of their deareſt Friends.</p>
+            <p n="6">6. Conſider that it is the great Mercy of God to you, in forbearing of you ſo long; foraſmuch as he might in Juſtice a ſent you to Hell long agoe, if he had dealt with you according to your Deſerts, and ſo in ſtead of having an oportunity to Weep and Pray to God, now you might have been in the Tormenting Flames, out of which there is no delive<g ref="char:EOLhyphen"/>rance.</p>
+            <p n="7">7. Conſider that the time paſt cannot be Recalled, not a Year, not a Month, not a Day, no not one Hour, and the time you have to Live is very ſhort, and therefore you ought ſo to number your days, as to apply your hearts to true Wiſdom, which is to fear the Lord, for the fear of the Lord is the beginning of <hi>Wiſdom,</hi> and the true fear of God is to hate Sin. O Remember that Eternity dependeth upon this little opportuni<g ref="char:EOLhyphen"/>ty and therefore take heed you do not looſe any Moment of it, for the good of your Pretious Souls.</p>
+            <p n="8">8. Conſider that ſin hath bern the cauſe of all the Miſery that ever came upon Mankind: Sin turned <hi>Adam</hi> out of Paradiſe, ſin made <hi>Cain</hi> cry out, <hi>my puniſhment is greater than I can bear:</hi> Sin deſtroyed the World with water, Sin burn'd
+<hi>Sodom</hi> and <hi>Gomorah</hi> with Fire and Brimſtone, Sin rent the Kingdom of
+<hi>Iſrael</hi> from <hi>Saul,</hi> and God gave the Kingdom to <hi>David</hi> a better Man. Sin cauſed <hi>Nebuchadneſar</hi> to go Graſeing among the Beaſts of the Field, and brought his Nobles from being Compani<g ref="char:EOLhyphen"/>ons of Princes, to be a Prey for devouring Lions Sin hath deſtroyed famous Kingdoms, Families, and particular perſons; yea, ſin caſt ſome of the Angels out of Heaven into Hell, and ſin will turn you out of this VVorld into Hell. <hi>Except you repent ye ſhall all likewiſe periſh.</hi>
+            </p>
+            <p>Conſider the unſpeakable love of God in ſending his only Begotten Son into the World to be a Ranſome for Captive Souls, a Phyſician for
+<pb n="3" facs="tcp:95651:2"/>Sin-ſick Souls, A Reconcil<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r for Souls that have been Enemies to God by wicked works, A Reſt for weary Souls, Food for Hungry Souls, Ray<g ref="char:EOLhyphen"/>ment for Naked Souls, and a Saviour to give Pardons to Criminal Souls. O how ſhould this melt and break your Souls into Sorrow and true Con<g ref="char:EOLhyphen"/>trition, that ever you ſhould ſo ſin, and ſo long time againſt ſuch a good God, and ſuch a pretious Chriſt.</p>
+            <p n="10">10. Conſider that this pretious Jeſus hath perfectly kept all that Law of God which you have wickedly broken, and he hath ſuffered the ſe<g ref="char:EOLhyphen"/>verity of Divine Juſtice, and thereby hath ſatisfied Divine Require<g ref="char:EOLhyphen"/>ment, for and in the behalf of ſuch poor miſerable Sinners as you are, the Juſt ſuffered for the Unjuſt, he was made a Curſe to Redeem others from the Curſe of the Law, O this ſweet Jeſus was cut off, but not for himſelf, he was Stricken and Smitten of God, for the ſins of others, that by his Stripes they might be Healed.</p>
+            <p n="11">11. Conſider that this very ſame Jeſus is now alive, being Raiſed from the Dead.</p>
+            <q>
+               <p>He that was Dead is Alive and b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hold he liveth for ever more.</p>
+               <p>He that was Hanged on the Croſs, now ſitteth on the Throne.</p>
+               <p>He that did Bleed on the Croſs now Pleadeth on the Throne.</p>
+               <p>He that Died on the Croſs now Reigneth on the Throne, having all Power in Heaven and in Earth, and is Admired, Adored and Worſhipped by the Holy Angels.</p>
+            </q>
+            <p n="12">12. Conſider that the perſon of Jeſus Chriſt, as God and Man in U<g ref="char:EOLhyphen"/>nion together, and his bleſſed Merits in the Actual ſervice of God, which he compleatly performed together, with the Puniſhments which he pa<g ref="char:EOLhyphen"/>tiently ſuffered, is the only object of your Salvation, if you fix your Faith and Hopes upon any other object, either Perſons or Things, you will be utterly, yea, Eternally undone, for there is no perſon on Earth, no works of Righteouſneſs was wrought by your ſelves, the Virgin <hi>Ma<g ref="char:EOLhyphen"/>ry</hi> Saints not Angels in Heaven that can ſave your Souls: None but Chriſt, none but Chriſt, he only is able to ſave to the utmoſt, all them that come to God by him.</p>
+            <p n="13">13. Conſider that Jeſus Chriſt is very willing to ſave poor ſinners, he hath declared his willingneſs in ſaying, <hi>Come unto me all yea that labour and are heavy laden, and you ſhall find Reſt for your Souls,</hi> and in another place he ſayeth, <hi>He that cometh to me I will in no wiſe caſt out.</hi> O ſinners Chriſt is more willing to ſave ſinners then they are to be ſaved, Demon<g ref="char:EOLhyphen"/>ſtrated thus.</p>
+            <list>
+               <item>1. In his coming from Heaven to Earth, and appearing in the likeneſs of a Man, though he was equal with God.</item>
+               <item>2. In his Condeſending to ſo mean a Birth, being brought forth into the World, and laid in a Manger, the place of Beaſts, that ſo poor ſin<g ref="char:EOLhyphen"/>ners might have a place among the Holy Angels.</item>
+               <item>3. In living ſuch a Holy, Humble, and Sorrowful Life.</item>
+               <item>4. In dying ſuch a Cruel and Curſed Death.</item>
+               <item>5. In his Riſing from the Grave.</item>
+               <item>6. In his Aſſending into Heaven.</item>
+               <item>7. In his Pleading and Interſeding with his Father in the behalf of all them that truly believe in him.</item>
+            </list>
+            <pb n="4" facs="tcp:95651:3"/>
+            <p n="14">14. Conſider the unwillingneſs of poor Sinners to be ſaved; Demonſtrated thus:</p>
+            <list>
+               <item>1. They take pleaſure in thoſe things that they know are deſtructive to their pre<g ref="char:EOLhyphen"/>cious Souls.</item>
+               <item>2. They are not willing to leave thoſe things which are diſhonouring to God, and damning to their Souls.</item>
+               <item>3. They are not willing to come to Chriſt; He hath ſaid, <hi>You will not come to me that you may have Life.</hi>
+               </item>
+               <item>4. They are not willing to hearken to the Counſel and Reproof of thoſe that love and deſire the eternal Welfare of their Souls.</item>
+               <item>5. They are not willing to accept of the gracious Offers and Proffers of God. O, apply theſe things to your ſelves, and ſay unto God, <hi>I, even I am the vile wretch that am guilty of all theſe horrid Crimes, and now I am in danger of Eternal Damna<g ref="char:EOLhyphen"/>tion.</hi>
+               </item>
+            </list>
+            <p>Conſider what it is to be Damned; foraſmuch as Damnation is the greateſt of all Miſeries: Thus demonſtrated;</p>
+            <list>
+               <item>1. It is to ſtand charged with all Sin at the time of Death.</item>
+               <item>2. It is to have the Soul diſpoſed of by the great God to a State of Miſery all the time of its ſeparation from the Body.</item>
+               <item>3. It is to have the Body raiſed at the time of the Reſurrection with ſhame and contempt.</item>
+               <item>4. It is to be condemned in the Day of Judgment, with that dreadful word <hi>Go ye Curſed.</hi>
+               </item>
+               <item>5. It is to undergo everlaſting puniſhment: And that muſt be further conſidered thus;
+<list>
+                     <item>1. It is to be ever baniſhed from the comfortable preſence of God.</item>
+                     <item>2. It is to be for ever in the Company of Devils.</item>
+                     <item>3. It is for ever tormented in Flames of Divine wrath, which cannot, which will not for ever be quenched.</item>
+                     <item>4. It is to be for ever deprived of all ſorts of Comforts; no Society with good people, no Treaſures, no Pleaſures, no Honours in Hell; while we are on Earth, our Miſeries are mixed with Mercies; but in Hell it is all Miſery, and no Mercy; loads and heaps of Miſery, but not a dram nor drop of Mercy.</item>
+                  </list>
+               </item>
+            </list>
+            <p n="16">16. Conſider what it is to be ſaved; for as Damnation is the greateſt of all Mi<g ref="char:EOLhyphen"/>ſeries, ſo Salvation is the greateſt of all kind of happineſs; Demonſtrated thus:</p>
+            <list>
+               <item>1. It is to have your ſins pardoned.</item>
+               <item>2. It is to be reconciled to God, and ſo brought into a bleſſed Friendſhip.</item>
+               <item>3. It is to be redeemed from the Slavery of Sin and Satan.</item>
+               <item>4. It is to have the Soul received into Heaven at the time of Death.</item>
+               <item>5. It is to have the Body raiſed and changed at the time of the Reſurrection into the likeneſs of the glorious Body of Jeſus Chriſt.</item>
+               <item>6. It is to be for ever with Chriſt, beholding and enjoying his Glory; being for ever freed from Sin, from Sickneſs, from Temptation, from Poverty, from Perſe<g ref="char:EOLhyphen"/>cution<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and from whatſoever now hath the Name of Miſery upon it.</item>
+            </list>
+            <p n="17">17. Conſider that very great Sinners have obtained and ſhall obtain this bleſſed Salvation; and this may put you in ſome hopes, if you take the good right way. O therefore now weep bitterly; now pray ſincerely; now condemn your ſelves deeply; now juſtifie God highly; now fly to Jeſus Chriſt ſpeedily: O now, even now, while ſweet Jeſus doth offer Balm to heal you, while his bleſſed Fountain is open to waſh you, and while his precious Arms are ſtretched out to receive you, haſte, haſte, leſt yo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> periſh for ever, leſt dying, you meet with Damning, and ſo after Hanging at the place of Execution, you hang in the Chains of Damnation; from which good Lord deliver you.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:95651:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
